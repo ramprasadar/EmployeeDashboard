@@ -4,7 +4,7 @@
       "id": 2,
       "firstName": "lavanya",
       "lastName": "uppada",
-      "email": "lavanyalav04012000@gmail.com",
+      "email": "lavanyalav@gmail.com",
       "mobile": "9247826515",
       "salary": "28000"
     },
@@ -36,7 +36,7 @@
   "signupUsers": [
     {
       "fullname": "ram prasad",
-      "email": "ramprasad@whiteblue.in",
+      "email": "ramprasad@gmail.com",
       "password": "Ramprasad@123",
       "mobile": 7730577084,
       "id": 1
